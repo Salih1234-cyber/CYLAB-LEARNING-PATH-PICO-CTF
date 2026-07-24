@@ -1,6 +1,6 @@
 ## README Table
 
-| # | Category / Module | Description / Status |
+|  Category / Module | Description / Status |
 | --- | --- | --- |
 | 1 | `1-general-skills` | General Skills and Core CTF Tools |
 | 2 | `2-ai-foundations` | AI Foundations |
