@@ -1,6 +1,5 @@
 <div align="center">
   <h1>🛡️ CyLab Security Academy</h1>
-  <h3>PicoCTF Learning Path & Progress Tracker</h3>
 </div>
 
 ---
