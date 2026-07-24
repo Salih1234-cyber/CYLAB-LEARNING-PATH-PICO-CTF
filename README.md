@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="https://academy.cylab.cmu.edu/images/logo-header.svg" alt="CyLab Security Academy" width="300">
-</p>
+<div align="center">
+  <h1>🛡️ CyLab Security Academy</h1>
+  <h3>PicoCTF Learning Path & Progress Tracker</h3>
+</div>
 
-# CyLab Learning Path - PicoCTF
+---
 
 | # | Category / Module | Description | Progress / Score | Status |
 | :--- | :--- | :--- | :--- | :--- |
