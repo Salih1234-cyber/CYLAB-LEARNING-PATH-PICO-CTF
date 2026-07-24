@@ -2,8 +2,6 @@
   <h1>🛡️ CyLab Security Academy</h1>
 </div>
 
----
-
 | # | Category / Module | Description | Progress / Score | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | `1-general-skills` | General Skills & Core CTF Tools | ⬜⬜⬜⬜⬜ (0/100) | ⚪ Not Started |
